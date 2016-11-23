@@ -46,6 +46,56 @@ var Catalogo = (function(){
             'Marca': 'Microsoft',
             'Precio': '5200',
         },
+        {
+            'Nombre': 'Wii u',
+            'Marca': 'Nintendo',
+            'Precio': '5200',
+        },
+        {
+            'Nombre': 'Cámara',
+            'Marca': 'Canon',
+            'Precio': '450',
+        },
+        {
+            'Nombre': 'Disco duro',
+            'Marca': 'Seagate',
+            'Precio': '1200',
+        },
+        {
+            'Nombre': 'Licuadora',
+            'Marca': 'Betterware',
+            'Precio': '300',
+        },
+        {
+            'Nombre': 'Switch',
+            'Marca': 'Cisco',
+            'Precio': '13000',
+        },
+        {
+            'Nombre': 'Pantalla',
+            'Marca': 'Samsung',
+            'Precio': '1200',
+        },
+        {
+            'Nombre': 'Estéreo',
+            'Marca': 'Daewoo',
+            'Precio': '700',
+        },
+        {
+            'Nombre': 'Mouse',
+            'Marca': 'Razer',
+            'Precio': '3000',
+        },
+        {
+            'Nombre': 'Teclado',
+            'Marca': 'Razer',
+            'Precio': '3000',
+        },
+        {
+            'Nombre': 'Lavadora',
+            'Marca': 'Mabe',
+            'Precio': '2000',
+        },
         ]
     };
     return{
