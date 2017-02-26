@@ -17,6 +17,18 @@
     {
       "anchor": {
         "geolocation": {
+          "lat": 17.0304884,
+          "lon": -96.7623971
+        }
+      },
+      "id": 1,
+      "text": {
+        "title": "This is a basic POI" 
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
           "lat": 17.0711812,
           "lon": -96.7127163
         }
