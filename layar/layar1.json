@@ -2,19 +2,12 @@
   "errorCode": 0,
   "errorString": "ok",
   "hotspots": [
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 17.0711812,
-          "lon": -96.7267163
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Visit our hotspots documentation!",
+          "uri": "https://maldad.github.io/"
         }
-      },
-      "id": 1,
-      "text": {
-        "title": "This is a basic POI"
-      }
-    },
-    {
+      ],
       "anchor": {
         "geolocation": {
           "lat": 17.0304884,
@@ -22,41 +15,6 @@
         }
       },
       "id": 1,
-      "text": {
-        "title": "This is a basic POI" 
-      }
-    },
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 17.0711812,
-          "lon": -96.7127163
-        }
-      },
-      "icon": {
-        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
-      },
-      "id": 2,
-      "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3",
-        "title": "This POI has a custom icon and description"
-      }
-    },
-    {
-      "actions": [
-        {
-          "contentType": "text/html",
-          "label": "Visit our hotspots documentation!",
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ],
-      "anchor": {
-        "geolocation": {
-          "lat": 17.0641812,
-          "lon": -96.7197163
-        }
-      },
-      "id": 3,
       "text": {
         "title": "This POI has an action"
       }
