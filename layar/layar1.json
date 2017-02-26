@@ -4,8 +4,8 @@
   "hotspots": [
     {"actions": [{
           "contentType": "text/html",
-          "label": "Visit our hotspots documentation!",
-          "uri": "https://maldad.github.io/"
+          "label": "It's about trucks",
+          "uri": "https://maldad.github.io/pictures/foto1.jpg"
         }
       ],
       "anchor": {
@@ -16,7 +16,7 @@
       },
       "id": 1,
       "text": {
-        "title": "This POI has an action"
+        "title": "This POI can opens a photo"
       }
     }
   ],
