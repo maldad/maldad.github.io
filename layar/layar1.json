@@ -1,12 +1,12 @@
 {
-"errorCode": 0,
+  "errorCode": 0,
   "errorString": "ok",
   "hotspots": [
     {
       "anchor": {
         "geolocation": {
-          "lat": 52.368766,
-          "lon": 4.885817
+          "lat": 17.0711812,
+          "lon": -96.7267163
         }
       },
       "id": 1,
@@ -17,8 +17,8 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 52.368766,
-          "lon": 4.899817
+          "lat": 17.0711812,
+          "lon": -96.7127163
         }
       },
       "icon": {
@@ -40,8 +40,8 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": 52.361766,
-          "lon": 4.892817
+          "lat": 17.0641812,
+          "lon": -96.7197163
         }
       },
       "id": 3,
@@ -50,7 +50,7 @@
       }
     }
   ],
-  "layer": "layer1piy9",
+  "layer": "layer189v5",
   "morePages": false,
   "nextPageKey": null,
   "referenceImages": []
