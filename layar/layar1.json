@@ -1,0 +1,57 @@
+{
+"errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 52.368766,
+          "lon": 4.885817
+        }
+      },
+      "id": 1,
+      "text": {
+        "title": "This is a basic POI"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 52.368766,
+          "lon": 4.899817
+        }
+      },
+      "icon": {
+        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+      },
+      "id": 2,
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3",
+        "title": "This POI has a custom icon and description"
+      }
+    },
+    {
+      "actions": [
+        {
+          "contentType": "text/html",
+          "label": "Visit our hotspots documentation!",
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 52.361766,
+          "lon": 4.892817
+        }
+      },
+      "id": 3,
+      "text": {
+        "title": "This POI has an action"
+      }
+    }
+  ],
+  "layer": "layer1piy9",
+  "morePages": false,
+  "nextPageKey": null,
+  "referenceImages": []
+}
