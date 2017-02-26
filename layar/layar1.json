@@ -18,6 +18,40 @@
       "text": {
         "title": "Vea una foto mia en este lugar"
       }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "yellow beetle",
+          "uri": "https://maldad.github.io/pictures/foto2.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0682346,
+          "lon": -96.7197462
+        }
+      },
+      "id": 2,
+      "text": {
+        "title": "Monumento a Juárez en el Llano"
+      }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "red convertible mustang",
+          "uri": "https://maldad.github.io/pictures/foto3.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0698094,
+          "lon": -96.7211916
+        }
+      },
+      "id": 3,
+      "text": {
+        "title": "Jardín Conzatti"
+      }
     }
   ],
   "layer": "layer189v5",
