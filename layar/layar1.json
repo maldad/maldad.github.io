@@ -4,25 +4,8 @@
   "hotspots": [
     {"actions": [{
           "contentType": "text/html",
-          "label": "It's about trucks",
-          "uri": "https://maldad.github.io/"
-        }
-      ],
-      "anchor": {
-        "geolocation": {
-          "lat": 17.0304884,
-          "lon": -96.7623971
-        }
-      },
-      "id": 1,
-      "text": {
-        "title": "Vea una foto mia en este lugar"
-      }
-    },
-    {"actions": [{
-          "contentType": "text/html",
-          "label": "yellow beetle",
-          "uri": "https://maldad.github.io/pictures/foto2.jpg"
+          "label": "Foto 1: El llano",
+          "uri": "https://maldad.github.io/pictures/foto1.jpg"
         }
       ],
       "anchor": {
@@ -31,15 +14,15 @@
           "lon": -96.7197462
         }
       },
-      "id": 2,
+      "id": 1,
       "text": {
         "title": "Monumento a Juárez en el Llano"
       }
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "red convertible mustang",
-          "uri": "https://maldad.github.io/pictures/foto3.jpg"
+          "label": "Foto 2: Jardín Conzatti",
+          "uri": "https://maldad.github.io/pictures/foto2.jpg"
         }
       ],
       "anchor": {
@@ -48,14 +31,31 @@
           "lon": -96.7211916
         }
       },
-      "id": 3,
+      "id": 2,
       "text": {
         "title": "Jardín Conzatti"
       }
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "yellow express truck",
+          "label": "404 not found",
+          "uri": "https://maldad.github.io/pictures/foto3.jpg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0630603,
+          "lon": -96.7326332
+        }
+      },
+      "id": 3,
+      "text": {
+        "title": "Jardín Morelos"
+      }
+    },
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Alameda de León",
           "uri": "https://maldad.github.io/pictures/foto4.jpg"
         }
       ],
@@ -72,7 +72,7 @@
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "yellow and red",
+          "label": "Jardín San Pablo",
           "uri": "https://maldad.github.io/pictures/foto5.jpg"
         }
       ],
@@ -89,7 +89,7 @@
     },
     {"actions": [{
           "contentType": "text/html",
-          "label": "silver custom",
+          "label": "Plazuela Juan Peláez de Berrio",
           "uri": "https://maldad.github.io/pictures/foto6.jpg"
         }
       ],
@@ -102,23 +102,6 @@
       "id": 6,
       "text": {
         "title": "Plazuela Juan Peláez de Berrio"
-      }
-    },
-    {"actions": [{
-          "contentType": "text/html",
-          "label": "404 not found",
-          "uri": "https://maldad.github.io/pictures/foto7.jpg"
-        }
-      ],
-      "anchor": {
-        "geolocation": {
-          "lat": 17.0630603,
-          "lon": -96.7326332
-        }
-      },
-      "id": 7,
-      "text": {
-        "title": "Jardín Morelos"
       }
     }
   ],
